@@ -27,7 +27,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-# ─── SEDE SQL Query ──────────────────────────────────────────────────────────
+# ─── SEDE SQL Queryyy ──────────────────────────────────────────────────────────
 # Paste this into https://data.stackexchange.com/stackoverflow/query/new
 SEDE_SQL = """
 SELECT
